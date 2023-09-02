@@ -1,16 +1,18 @@
-### Hi there 👋
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHeUKmQEDRiIfwK4Usz2ovBuVtEFR-h7IcA&usqp=CAU)
 
-<!--
-**LidwinePrior/LidwinePrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Lidwine!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🚀 About Me
+I'm learning web design at BeCode.
+
+
+## 🛠 Skills
+HTML, CSS, Git, Github, Canva
+
+
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidwine-careme/)
+

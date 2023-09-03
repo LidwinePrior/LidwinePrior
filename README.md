@@ -1,18 +1,17 @@
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkHeUKmQEDRiIfwK4Usz2ovBuVtEFR-h7IcA&usqp=CAU)
+![image](http://pngimg.com/uploads/hello/hello_PNG46.png)
 
-## I'm Lidwine!
-
-
+**I'm Lidwine!**
 
 
-## 🚀 About Me
-I'm learning web design at BeCode.
 
 
-## 🛠 Skills
+I was a childcare worker until recently. But now, I'm learning web design at BeCode. A new and exciting adventure! 
+
+
+## 🛠 Skills 
 HTML, CSS, Git, Github, Canva
 
 
-## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidwine-careme/)
+## 🔗 Links [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidwine-careme/)
+
 

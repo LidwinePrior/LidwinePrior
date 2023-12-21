@@ -1,19 +1,21 @@
-![image](http://pngimg.com/uploads/hello/hello_PNG46.png)
+# Hi there! 👋 I'm Lidwine!
 
-**I'm Lidwine!**
+I recently transitioned from being a childcare worker to diving into the exciting world of web design at BeCode. 🚀 It's a thrilling new adventure, and I'm passionate about learning and growing in this field.
+
+## 🛠 Skills
+
+I'm currently honing my skills in:
+- HTML
+- CSS
+- Sass
+- Git
+- Github
+- Canva
+- Javascript
+- PHP
+- MySQL
 
 
+## 🔗 Connect with Me 
 
-
-I was a childcare worker until recently. But now, I'm learning web design at BeCode. A new and exciting adventure! 
-
-
-## 🛠 Skills 
-HTML, CSS, Sass, Git, Github, Canva, PHP, Mysql
-
-
-## 🔗 Links 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidwine-careme/)
-
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lidwine-careme/) to stay updated on my journey and explore potential collaborations.

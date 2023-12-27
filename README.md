@@ -14,6 +14,7 @@ I'm currently honing my skills in:
 - Javascript
 - PHP
 - MySQL
+- Python
 
 
 ## 🔗 Connect with Me 

@@ -7,18 +7,18 @@ I recently transitioned from being a childcare worker to diving into the excitin
 I'm currently honing my skills in:
 
 
-| Languages    | Concepts                 |
-| :--------    | : -----------------------|
-| HTML         |  |
-| CSS          |  |
-| Sass         |  |
-| Git          |  |
-| Github       |  |
-| Canva        |  |
-| Javascript   |  |
+| Languages    | Concepts  |
+| :--------    | : --------|
+| HTML         |           |
+| CSS          |           |
+| Sass         |           |
+| Git          |           |
+| Github       |           |
+| Canva        |           |
+| Javascript   |           |
 | PHP          |OOP, MVC, namespace, api|
-| MySQL        |  |
-| Python       |  |
+| MySQL        |           |
+| Python       |           |
 
 
 ## 🔗 Connect with Me 

@@ -24,7 +24,7 @@ I'm currently honing my skills in:
 | Canva |
 | Figma |
 | Trello|
-| Readmeso |
+| readme.so |
 
 
 ## 🔗 Connect with Me 

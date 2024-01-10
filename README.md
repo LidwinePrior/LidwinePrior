@@ -11,8 +11,7 @@ I'm currently honing my skills in:
 | :--------                      | :----------------------------  |
 | HTML         |           |
 | CSS          | Sass      |
-| Git          | GitBash   |
-| Github       |           | 
+
 | Javascript   |           |
 | PHP          |OOP, MVC, namespace, api|
 | MySQL        |           |
@@ -21,10 +20,13 @@ I'm currently honing my skills in:
 
 | Tools                    |
 | :--------                      |
+| Github|
 | Canva |
 | Figma |
 | Trello|
-| readme.so |
+| Git   |
+| Anaconda|
+
 
 
 ## 🔗 Connect with Me 

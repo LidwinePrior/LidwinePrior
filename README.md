@@ -5,6 +5,8 @@ I recently transitioned from being a childcare worker to diving into the excitin
 ## 🛠 Skills
 
 I'm currently honing my skills in:
+
+
 | Languages    | Concepts                 |
 | :--------    | : -----------------------|
 | HTML         |  |

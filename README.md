@@ -10,15 +10,22 @@ I'm currently honing my skills in:
 | Languages                      | Concepts                       |
 | :--------                      | :----------------------------  |
 | HTML         |           |
-| CSS          |           |
-| Sass         |           |
-| Git          |           |
-| Github       |           |
-| Canva        |           |
+| CSS          | Sass      |
+| Git          | GitBash   |
+| Github       |           | 
 | Javascript   |           |
 | PHP          |OOP, MVC, namespace, api|
 | MySQL        |           |
 | Python       |           |
+
+
+| Tools                    |
+| :--------                      |
+| Canva |
+| Figma |
+| Trello|
+| Readmeso |
+
 
 ## 🔗 Connect with Me 
 

@@ -7,8 +7,8 @@ I recently transitioned from being a childcare worker to diving into the excitin
 I'm currently honing my skills in:
 
 
-| Languages    | Concepts  |
-| :--------    | : --------|
+| Languages                      | Concepts                       |
+| :--------                      | :----------------------------  |
 | HTML         |           |
 | CSS          |           |
 | Sass         |           |
@@ -19,13 +19,6 @@ I'm currently honing my skills in:
 | PHP          |OOP, MVC, namespace, api|
 | MySQL        |           |
 | Python       |           |
-
-
-| Languages                      | Concepts                       |
-| :--------                      | :----------------------------  |
-| Globale     (veille)           | https://www.awwwards.com/inspiration_search/
-|                                |  https://dribbble.com/          |
-|                                |   https://www.behance.net/      |
 
 ## 🔗 Connect with Me 
 

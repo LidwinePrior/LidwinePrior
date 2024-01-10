@@ -21,6 +21,12 @@ I'm currently honing my skills in:
 | Python       |           |
 
 
+| Languages                      | Concepts                       |
+| :--------                      | :----------------------------  |
+| Globale     (veille)           | https://www.awwwards.com/inspiration_search/
+|                                |  https://dribbble.com/          |
+|                                |   https://www.behance.net/      |
+
 ## 🔗 Connect with Me 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lidwine-careme/) to stay updated on my journey and explore potential collaborations.

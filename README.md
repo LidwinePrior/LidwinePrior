@@ -11,7 +11,6 @@ I'm currently honing my skills in:
 | :--------                      | :----------------------------  |
 | HTML         |           |
 | CSS          | Sass      |
-
 | Javascript   |           |
 | PHP          |OOP, MVC, namespace, api|
 | MySQL        |           |
